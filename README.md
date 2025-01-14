@@ -1,6 +1,6 @@
     234567OP/89.# Directory Watcher and PDF Converter
 
-This project is a Java-based application that continuously monitors a specified directory for new PDF files. When a new PDF file is detected, the application converts the PDF into a text file and saves it in a different output directory. After successful conversion, the original PDF file is deleted to keep the input directory clean. The project uses virtual threads to handle tasks efficiently and employs logging for easy tracking of operations.r.
+This project is a Java-based application that continuously monitors a specified directory for new PDF files. When a new PDF file is detected, the application converts the PDF into a text file and saves it in a different output directory. After successful conversion, the original PDF file is deleted to keep the input directory clean. The project uses virtual threads to handle tasks efficiently and employs logging for easy tracking of operations.
 
 ***
 ## Features
